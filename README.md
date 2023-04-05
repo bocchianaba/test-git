@@ -1,4 +1,4 @@
 # test-git
 this repository is to test git command
 
-in branch master a make this change
+i have stash my modification in master branch and i am setup this modification
